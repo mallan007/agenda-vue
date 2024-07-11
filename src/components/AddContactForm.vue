@@ -18,7 +18,7 @@
 
 <script>
     export default{
-        return{
+        return {
             name: 'AddContactForm'
         }
     }

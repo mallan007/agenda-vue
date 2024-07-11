@@ -8,9 +8,9 @@
   <DetailsContactList />
   <router-view />
   <EditContactForm />
-  <router-view />
+  <router-link />
   <AddContactForm />
-  <router-view />
+  <router-link />
   
  </template>
  
